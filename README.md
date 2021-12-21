@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Bayu
 
-- 🌱 I’m currently learning Ruby on Rails.
+- 🌱 I’m currently learning Vue.
 - 💼 I’m pursuing a Bachelor of Informatics Engineering degree on Unikom 
 - ⚡ Fun fact: nothing. 
 
