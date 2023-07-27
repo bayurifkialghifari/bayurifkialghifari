@@ -2,7 +2,16 @@
 
 - 🌱 I’m currently learning Vue.
 - 💼 I’m pursuing a Bachelor of Informatics Engineering degree on Unikom 
-- ⚡ Fun fact: nothing. 
+- ⚡ Fun fact: nothing.
+
+### Github Statistic
+
+<p align="left">
+  <a href="https://github.com/thrqhdyt">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?    username=bayurifkialghifari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayurifkialghifari&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 ### Contact me
 
