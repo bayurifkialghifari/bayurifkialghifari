@@ -15,6 +15,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Livewire](https://img.shields.io/badge/-Livewire-000?&logo=Livewire&logoColor=red)
 ![AlphineJS](https://img.shields.io/badge/-AlphineJS-000?&logo=alphine.js)
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=astro)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-000?&logo=express.js)
 ![VueJS](https://img.shields.io/badge/-VueJS-000?&logo=vue.js)
