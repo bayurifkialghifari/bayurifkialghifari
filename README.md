@@ -28,5 +28,5 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayurifkialghifari&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff" />
 </a>
 
-<img src="https://wakatime.com/share/@76abfa9a-6691-4df9-a941-624bad1f20f0/141dd425-e49d-4a10-8659-ef596e639552.svg" />
+<img height="300px" src="https://wakatime.com/share/@76abfa9a-6691-4df9-a941-624bad1f20f0/141dd425-e49d-4a10-8659-ef596e639552.svg" />
 
