@@ -26,6 +26,7 @@
 <a href="https://bayurifki.vercel.app" target="_blank">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=bayurifkialghifari&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" /><!-- wi*quL3fcV -->
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayurifkialghifari&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff" />
-  <img height="137px" src="https://wakatime.com/share/@76abfa9a-6691-4df9-a941-624bad1f20f0/141dd425-e49d-4a10-8659-ef596e639552.svg" />
 </a>
+
+<img height="137px" src="https://wakatime.com/share/@76abfa9a-6691-4df9-a941-624bad1f20f0/141dd425-e49d-4a10-8659-ef596e639552.svg" />
 
