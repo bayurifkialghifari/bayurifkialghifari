@@ -39,28 +39,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2031%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      1 hr 3 mins         ████████████░░░░░░░░░░░░░   48.12 % 
-Blade Template           28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in PHP** 
 
@@ -75,5 +54,5 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2024 18:41:35 UTC
+ Last Updated on 10/11/2024 18:41:56 UTC
 <!--END_SECTION:waka-->
