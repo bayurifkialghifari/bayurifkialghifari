@@ -27,14 +27,6 @@
 
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayurifkialghifari/BayuRifkiAlghifari/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bayurifkialghifari/BayuRifkiAlghifari/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bayurifkialghifari/BayuRifkiAlghifari/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br />
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2011%20mins-blue)
 
