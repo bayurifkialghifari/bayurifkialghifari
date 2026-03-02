@@ -36,16 +36,16 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      6 hrs 57 mins       ██████████████░░░░░░░░░░░   56.15 % 
-Blade Template           2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Vue.js                   1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+PHP                      6 hrs 8 mins        ██████████████░░░░░░░░░░░   56.18 % 
+Blade Template           2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Vue.js                   1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Linux                    12 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/03/2026 18:55:03 UTC
+ Last Updated on 02/03/2026 19:09:28 UTC
 <!--END_SECTION:waka-->
