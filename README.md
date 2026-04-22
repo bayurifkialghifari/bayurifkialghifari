@@ -28,7 +28,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C887%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C887%20hrs%2043%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -36,17 +36,17 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      1 hr 33 mins        █████████████░░░░░░░░░░░░   53.10 % 
-Blade Template           30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+PHP                      1 hr 33 mins        █████████████████░░░░░░░░   66.53 % 
+Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Blade Template           14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-WSL                      2 hrs 54 mins       █████████████████████████   99.09 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+WSL                      2 hrs 19 mins       █████████████████████████   98.87 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 
 
- Last Updated on 21/04/2026 19:43:28 UTC
+ Last Updated on 22/04/2026 19:45:18 UTC
 <!--END_SECTION:waka-->
