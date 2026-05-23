@@ -28,22 +28,6 @@
 <br />
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      12 hrs 53 mins      ███████████████████░░░░░░   75.19 % 
-Blade Template           3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-
-💻 Operating System: 
-WSL                      17 hrs 8 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2026 20:16:39 UTC
+ Last Updated on 23/05/2026 19:43:00 UTC
 <!--END_SECTION:waka-->
