@@ -28,6 +28,20 @@
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C946%20hrs%2053%20mins-blue?style=flat)
 
- Last Updated on 28/05/2026 20:40:30 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 29/05/2026 20:40:36 UTC
 <!--END_SECTION:waka-->
